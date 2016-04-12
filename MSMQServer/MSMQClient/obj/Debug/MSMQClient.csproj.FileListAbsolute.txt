@@ -1,0 +1,6 @@
+D:\Demos\MSMQServer\MSMQClient\bin\Debug\MSMQClient.exe.config
+D:\Demos\MSMQServer\MSMQClient\bin\Debug\MSMQClient.exe
+D:\Demos\MSMQServer\MSMQClient\bin\Debug\MSMQClient.pdb
+D:\Demos\MSMQServer\MSMQClient\obj\Debug\MSMQClient.csprojResolveAssemblyReference.cache
+D:\Demos\MSMQServer\MSMQClient\obj\Debug\MSMQClient.exe
+D:\Demos\MSMQServer\MSMQClient\obj\Debug\MSMQClient.pdb

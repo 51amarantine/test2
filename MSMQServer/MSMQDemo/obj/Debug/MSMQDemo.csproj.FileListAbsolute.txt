@@ -1,0 +1,9 @@
+D:\Demos\MSMQServer\MSMQDemo\bin\Debug\MSMQDemo.exe.config
+D:\Demos\MSMQServer\MSMQDemo\bin\Debug\MSMQDemo.exe
+D:\Demos\MSMQServer\MSMQDemo\bin\Debug\MSMQDemo.pdb
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.csprojResolveAssemblyReference.cache
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.Form1.resources
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.Properties.Resources.resources
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.csproj.GenerateResource.Cache
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.exe
+D:\Demos\MSMQServer\MSMQDemo\obj\Debug\MSMQDemo.pdb
